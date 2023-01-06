@@ -1,5 +1,4 @@
 // Frequency Counter / Timer Example
-// Jason Losh
 
 //-----------------------------------------------------------------------------
 // Hardware Target
